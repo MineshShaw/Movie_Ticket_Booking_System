@@ -35,7 +35,7 @@ The PaymentProxy integrates with external payment systems. Upon successful payme
 ---
 
 📊 Low Level Design (UML)
-![Ticket Booking System](https://lh3.googleusercontent.com/d/186oq3QuFwlvJQY8wnh0cLE-OgOVgMSeN)
+![Ticket Booking System](./Movie_Ticket_Booking_System.drawio.svg)
 
 ---
 
